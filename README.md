@@ -3,8 +3,9 @@ Le présent travail est développé dans le cadre de mon projet de fin d'études
 
 ![alt text](images/results.png)
 
-Lien de téléchargement des modèles :
+## Lien de téléchargement des modèles :
 
 * [modèle YOLOv8s entrainé sur la classe 'Window'](https://drive.google.com/file/d/1_s0H9AkNPFYKLdc2pnOvazdOfwi1e0F3/view?usp=drive_link)
 * [modèle YOLOv8s entrainé sur les classes : 'Door', 'Basement' et 'Garage'](https://drive.google.com/file/d/1g5HrLvW1YZepg0zUxPXPpl4BSo8Ra6yM/view?usp=drive_link)
+* [ViT-H SAM model](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 
